@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there let us introduce to the life of party 👋
 
 <!--
 **lanesraevents/LANESRAEVENTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
